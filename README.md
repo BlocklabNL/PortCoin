@@ -17,3 +17,7 @@ Develop a working prototype that demonstrates how these type of appointments can
 ### Initial idea:
 
 Establish a default/standard for such a market, including standardization of transaction data, pricing algorithms and taking into consideration privacy. Launch PortCoins and issue allowance to each major actor in the supply chain. Launch a trading platform (PortExchange) to facilitate the trading/exchange of agreements and of potential other cryptocurrencies that aim to optimize logistics.
+
+### Project suggestions:
+
+See: https://github.com/Tribler/tribler/issues/3909
